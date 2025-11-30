@@ -1,0 +1,7 @@
+{
+  "name": "Mellore Oficial",
+  "description": "Uma clínica de estética moderna e elegante com análise de pele por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
